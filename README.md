@@ -6,7 +6,7 @@ Earth Observation embeddings, we define standards for data formats and
 benchmarking, explore real-world use cases and foster open-source collaboration.
 
 ### How to join?
-The community is open to everyone interested in the topic, just join our [discord](https://discord.gg/3QNpjXus) to be added to the community. 
+The community is open to everyone interested in the topic, just join our [discord](https://discord.gg/Ym6ngDhgGH) to be added to the community. 
 Someone from the community will ask you for your email address to get added to the monthly invitations.
 
 
