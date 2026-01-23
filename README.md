@@ -13,6 +13,7 @@ Someone from the community will ask you for your email address to get added to t
 
 ### Recordings of past meetings:  
 
+[23.01.2026](https://youtu.be/KO0P5ksqRRk)  MOSAIKS and Earth Embeddings, Esther Rolf
 [14.11.2025](https://youtu.be/tcBRSMDM8z4)  Learning Mental Maps in Neural Networks, Marc Rußwurm  
 [10.10.2025](https://youtu.be/VnPDGp1ektI)  CORSA/Terrascope, Andreas Luyts, Vito  
 [12.09.2025](https://youtu.be/drKctLX5-xA)  Introduction to AlphaEarth by Valerie Pasquarella, Google  
