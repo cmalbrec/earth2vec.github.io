@@ -1,13 +1,25 @@
-**Earth2Vec** is a community-driven initiative to accelerate research and 
-real-world applications of Earth Observation embeddings.
+<p align="center">
+  <img src="assets/Logo_E2S_blue_text.png" alt="Earth2Vec Logo" height="80">
+</p>
 
-With the goal of shaping the transformative potential of 
-Earth Observation embeddings, we define standards for data formats and 
-benchmarking, explore real-world use cases and foster open-source collaboration.
+# Earth2Vec
+
+**Earth2Vec** is a community-driven initiative dedicated to accelerating  
+research and real‑world applications of Earth Observation (EO) embeddings.
+
+**Earth2Vec** is a community-driven initiative dedicated to accelerating 
+research and real‑world applications of Earth Observation (EO) embeddings.
+
+We work toward unlocking the potential of EO embeddings by defining standards for data formats and benchmarking, 
+exploring practical use cases, and fostering open-source collaboration across the community.
+Earth2Vec brings together researchers, industry partners, and individual contributors. 
+
+The community is supported by the EU‑Horizon project **Embed2Scale** (Horizon Europe Grant Agreement No. 101131841, with additional support from SERI and UKRI). 
+Embed2Scale develops methods for EO and weather data federation using AI embeddings and, through initiatives such as Earth2Vec, supports evaluation, exchange, and continued advancement across the broader research ecosystem.
 
 ### How to join?
-The community is open to everyone interested in the topic, just join our [discord](https://discord.gg/Ym6ngDhgGH) to be added to the community. 
-Someone from the community will ask you for your email address to get added to the monthly invitations.
+The community is open to everyone interested in the topic, just join our [Discord](https://discord.gg/Ym6ngDhgGH) to be added to the community. 
+We share monthly meeting invitations there, and you can reach out in the channel to get them forwarded to your email.
 
 
 
