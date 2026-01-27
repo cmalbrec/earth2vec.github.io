@@ -4,11 +4,8 @@
 
 ## Earth2Vec Community
 
-**Earth2Vec** is a community-driven initiative dedicated to accelerating  
-research and real‑world applications of Earth Observation (EO) embeddings.
-
-**Earth2Vec** is a community-driven initiative dedicated to accelerating 
-research and real‑world applications of Earth Observation (EO) embeddings.
+**Earth2Vec** is a community-driven initiative dedicated to accelerating research 
+and real‑world applications of Earth Observation (EO) embeddings.
 
 We work toward unlocking the potential of EO embeddings by defining standards for data formats and benchmarking, 
 exploring practical use cases, and fostering open-source collaboration across the community.
