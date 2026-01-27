@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Logo_E2V_blue_text.png" alt="Earth2Vec Logo" height="250">
+  <img src="assets/Logo_E2V_blue_text.png" alt="Earth2Vec Logo" height="280">
 </p>
 
-# Earth2Vec
+## Earth2Vec Community
 
 **Earth2Vec** is a community-driven initiative dedicated to accelerating  
 research and real‑world applications of Earth Observation (EO) embeddings.
