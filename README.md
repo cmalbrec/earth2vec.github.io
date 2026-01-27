@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo_E2S_blue_text.png" alt="Earth2Vec Logo" height="80">
+  <img src="assets/Logo_E2V_blue_text.png" alt="Earth2Vec Logo" height="80">
 </p>
 
 # Earth2Vec
