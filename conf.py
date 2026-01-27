@@ -25,5 +25,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_logo = 'assets/Logo_E2V_blue_text.svg'
-html_theme_options = {'logo_only': True}
+html_logo = '_static/Logo_E2V_blue_text.svg'
