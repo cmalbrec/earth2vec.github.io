@@ -8,11 +8,11 @@
 and real‑world applications of Earth Observation (EO) embeddings.
 
 We work toward unlocking the potential of EO embeddings by defining standards for data formats and benchmarking, 
-exploring practical use cases, and fostering open-source collaboration across the community.
+exploring practical use cases, and fostering open-source collaboration around EO embeddings.
 Earth2Vec brings together researchers, industry partners, and individual contributors. 
 
-The community is supported by the EU‑Horizon project **Embed2Scale** (Horizon Europe Grant Agreement No. 101131841, with additional support from SERI and UKRI). 
-Embed2Scale develops methods for EO and weather data federation using AI embeddings and, through initiatives such as Earth2Vec, supports evaluation, exchange, and continued advancement across the broader research ecosystem.
+The Earth2Vec community was launched by the EU‑Horizon project Embed2Scale together with leading academic and industry partners. 
+Embed2Scale develops methods for EO and weather data federation using AI embeddings and, through initiatives such as Earth2Vec, supports the wider community to test, adopt and co-develop EO embedding methods.
 
 ### How to join?
 The community is open to everyone interested in the topic, just join our [Discord](https://discord.gg/Ym6ngDhgGH) to be added to the community. 
