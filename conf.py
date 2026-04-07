@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'earth2vec'
-copyright = '2025, The Earth2Vec Community'
+copyright = '2026, The Earth2Vec Community'
 author = 'The Earth2Vec Community'
 
 # -- General configuration ---------------------------------------------------
