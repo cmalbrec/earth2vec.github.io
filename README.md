@@ -22,6 +22,8 @@ We share monthly meeting invitations there, and you can reach out in the channel
 
 ### Recordings of past meetings:  
 
+[29.05.2026](https://youtu.be/NzlnWJ46MD8) BetaEarth: Emulating Earth Embeddings by Mikolaj Czerkawski, Asterisk Labs
+Geometric Interpolation of Embeddings in Satellite-based Earth Observation by Erik Scheuer, Jülich Supercomputing Centre 
 [27.03.2026](https://youtu.be/1_qi3RwcOxc?si=0sqi8Gt2WAEEqncg) Embed2Scale, Visual Prompting for Geospatial Image Segmentation based on Embedding Maps, Duc Kieu  
 [23.01.2026](https://youtu.be/KO0P5ksqRRk)  MOSAIKS and Earth Embeddings, Esther Rolf  
 [14.11.2025](https://youtu.be/tcBRSMDM8z4)  Learning Mental Maps in Neural Networks, Marc Rußwurm  
